@@ -8,7 +8,7 @@ Retorna os livros.
 
 https://localhost:44339/api/Books/{id} <br>
 Retorna o livro que o Id seja igual ao do parâmetro da URL. <br>
-<li>O Id do livro deve ser passado como um parâmetro na URL depois de /api/Books/{id}<li/>
+O Id do livro deve ser passado como um parâmetro na URL depois de /api/Books/{id}
 <br><br>
   
 <h2>POST<h2/>
