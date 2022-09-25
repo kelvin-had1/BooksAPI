@@ -3,10 +3,10 @@ Uma API (CRUD) utilizando ASP.net e EntityFramework
 
 #GET
 <li>https://localhost:44339/api/Books<li/>
-<h2>Retorna os livros.<h2/>
+Retorna os livros.
   
 <li>https://localhost:44339/api/Books/{id}</li>
-<h2>Retorna o livro que o Id seja igual ao do parâmetro da URL.<h2/>
+Retorna o livro que o Id seja igual ao do parâmetro da URL.
   
   
 #POST
