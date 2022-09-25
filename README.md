@@ -1,16 +1,16 @@
 # BooksAPI
 Uma API (CRUD) utilizando ASP.net e EntityFramework
 
-<h2>GET<h2/>
-https://localhost:44339/api/Books
+#GET
+https://localhost:44339/api/Books <br>
 Retorna os livros.
-<br>
+<br><br>
 
-https://localhost:44339/api/Books/{id}
+https://localhost:44339/api/Books/{id} <br>
 Retorna o livro que o Id seja igual ao do parâmetro da URL.
-<br>
+<br><br>
   
-<h2>POST<h2/>
+#POST
 https://localhost:44339/api/Books
 <h2>O corpo da requisição deve conter o author, description e title: <br><h2/>
 {
