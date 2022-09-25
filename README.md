@@ -12,7 +12,7 @@ Retorna o livro que o Id seja igual ao do parâmetro da URL.
   
 <h2>POST<h2/>
 https://localhost:44339/api/Books <br>
-<h2>O corpo da requisição deve conter o author, description e title: <br><h2/>
+O corpo da requisição deve conter o author, description e title: <br>
 {
   "author": "Kelvin", <br>
   "description": "História Real", <br>
